@@ -1,0 +1,3 @@
+function lookupRecord({ store = "person-records", id = -1 }) {
+  // ...
+}
